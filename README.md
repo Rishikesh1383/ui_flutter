@@ -40,8 +40,7 @@ Each experiment is designed to demonstrate **key Flutter concepts** in a practic
 ---
 
 ## 🖼 Screenshots
-
-> Replace these with your actual screenshots.
+outputs~!!!
 
 | Experiment | Screenshot |
 |------------|------------|
@@ -57,5 +56,5 @@ Each experiment is designed to demonstrate **key Flutter concepts** in a practic
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/SatishPallyvela/experiments-6-10.git
+git clone https://github.com/Rishikesh1383/ui_flutter.git
 cd experiments-6-10
