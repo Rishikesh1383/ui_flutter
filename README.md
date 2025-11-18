@@ -57,4 +57,4 @@ outputs~!!!
 1. **Clone the repository**
 ```bash
 git clone https://github.com/Rishikesh1383/ui_flutter.git
-cd experiments-6-10
+cd ui_flutter
